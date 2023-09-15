@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js"
+    "get": "node get.js",
+    "put": "node put.js",
+    "copy": "node copy.js"
   },
   "keywords": [],
   "author": "",
